@@ -1,3 +1,4 @@
+CMG = Changmugu
 This is a new file! 
 
 1) So the idea is to make the commits locally first
