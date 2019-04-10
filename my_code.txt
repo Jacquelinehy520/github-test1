@@ -1,3 +1,5 @@
 1.hello world
-2.good bye
+2.Git is my new favorite
 3.welcome
+4.Jackie is pretty
+
