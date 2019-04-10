@@ -1,4 +1,4 @@
-This is a new file! 
+CMG=Changmugu 
 
 1) So the idea is to make the commits locally first
 2) Then at some point PUSH your commits to your fork on GitHub
